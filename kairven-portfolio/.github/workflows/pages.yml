@@ -33,8 +33,8 @@ jobs:
       - name: Build website for free GitHub Pages URL
         run: npm run build
         env:
-          SITE_URL: https://kairven.github.io
-          VITE_SITE_URL: https://kairven.github.io
+          SITE_URL: https://kairven.netlify.app
+          VITE_SITE_URL: https://kairven.netlify.app
       - name: Upload website
         uses: actions/upload-pages-artifact@v3
         with:
