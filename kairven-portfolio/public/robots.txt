@@ -64,4 +64,4 @@ Disallow: /admin
 Disallow: /login
 Disallow: /thank-you
 
-Sitemap: https://kairven.github.io/sitemap.xml
+Sitemap: https://kairven.netlify.app/sitemap.xml
