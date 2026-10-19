@@ -1,0 +1,4 @@
+[build]
+  base = "kairven-portfolio"
+  command = "npm ci && npm run build"
+  publish = "dist"
