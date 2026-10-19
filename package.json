@@ -1,0 +1,10 @@
+{
+  "name": "kairven",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix kairven-portfolio run dev --",
+    "build": "npm --prefix kairven-portfolio run build",
+    "lint": "npm --prefix kairven-portfolio run lint",
+    "preview": "npm --prefix kairven-portfolio run preview --"
+  }
+}

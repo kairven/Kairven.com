@@ -1,0 +1,67 @@
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /login
+Disallow: /thank-you
+
+User-agent: Googlebot
+Allow: /
+Disallow: /admin
+Disallow: /login
+Disallow: /thank-you
+
+User-agent: Bingbot
+Allow: /
+Disallow: /admin
+Disallow: /login
+Disallow: /thank-you
+
+User-agent: GPTBot
+Allow: /
+Disallow: /admin
+Disallow: /login
+Disallow: /thank-you
+
+User-agent: OAI-SearchBot
+Allow: /
+Disallow: /admin
+Disallow: /login
+Disallow: /thank-you
+
+User-agent: ChatGPT-User
+Allow: /
+Disallow: /admin
+Disallow: /login
+Disallow: /thank-you
+
+User-agent: ClaudeBot
+Allow: /
+Disallow: /admin
+Disallow: /login
+Disallow: /thank-you
+
+User-agent: Claude-SearchBot
+Allow: /
+Disallow: /admin
+Disallow: /login
+Disallow: /thank-you
+
+User-agent: PerplexityBot
+Allow: /
+Disallow: /admin
+Disallow: /login
+Disallow: /thank-you
+
+User-agent: Google-Extended
+Allow: /
+Disallow: /admin
+Disallow: /login
+Disallow: /thank-you
+
+User-agent: Applebot-Extended
+Allow: /
+Disallow: /admin
+Disallow: /login
+Disallow: /thank-you
+
+Sitemap: https://kairven.github.io/sitemap.xml
