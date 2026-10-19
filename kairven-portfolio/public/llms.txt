@@ -23,16 +23,16 @@ All packages are customised and priced against a written scope. Payment is 50% b
 
 ## Key pages
 
-- [Home](https://kairven.github.io/): Done-for-you websites, search and enquiry-response systems for clinics, dental practices and home-service businesses.
-- [About Kairven](https://kairven.github.io/about/): Founder, business background, location and working approach.
-- [Website design](https://kairven.github.io/services/website-design/): Website strategy, design and development.
-- [Local search](https://kairven.github.io/services/local-search/): Search visibility and location information foundations.
-- [CRM setup](https://kairven.github.io/services/crm/): CRM, lead ownership and follow-up workflows.
-- [Lead response](https://kairven.github.io/services/lead-response/): Response, WhatsApp and booking follow-up systems.
-- [FAQs](https://kairven.github.io/faq/): Answers about services, the typical seven-day setup, custom pricing, follow-up and getting started.
-- [Insights](https://kairven.github.io/blog/): A practical guide to responding to enquiries and planning follow-up.
-- [Privacy policy](https://kairven.github.io/privacy-policy/): Current information about contact form handling and website data.
-- [Terms](https://kairven.github.io/terms/): Conditions for using the site and agreeing a project scope.
+- [Home](https://kairven.netlify.app/): Done-for-you websites, search and enquiry-response systems for clinics, dental practices and home-service businesses.
+- [About Kairven](https://kairven.netlify.appabout/): Founder, business background, location and working approach.
+- [Website design](https://kairven.netlify.app/services/website-design/): Website strategy, design and development.
+- [Local search](https://kairven.netlify.app/services/local-search/): Search visibility and location information foundations.
+- [CRM setup](https://kairven.netlify.app/services/crm/): CRM, lead ownership and follow-up workflows.
+- [Lead response](kairven.netlify.app/services/lead-response/): Response, WhatsApp and booking follow-up systems.
+- [FAQs](https://kairven.netlify.app/faq/): Answers about services, the typical seven-day setup, custom pricing, follow-up and getting started.
+- [Insights](https://kairven.netlify.appirven.github.io/blog/): A practical guide to responding to enquiries and planning follow-up.
+- [Privacy policy](https://kairven.netlify.app/privacy-policy/): Current information about contact form handling and website data.
+- [Terms](https://kairven.netlify.app/terms/): Conditions for using the site and agreeing a project scope.
 
 ## Contact
 
