@@ -35,7 +35,7 @@ import {
 } from "./siteData.js";
 import "./App.css";
 
-const WEBSITE_URL = (import.meta.env.VITE_SITE_URL || "https://kairven.github.io").replace(/\/+$/, "");
+const WEBSITE_URL = (import.meta.env.VITE_SITE_URL || "https://kairven.netlify.app").replace(/\/+$/, "");
 
 function cleanContactField(value) {
   return String(value ?? "")
