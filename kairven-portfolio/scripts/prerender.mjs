@@ -4,7 +4,7 @@ import { renderToString } from "react-dom/server";
 import { createServer } from "vite";
 import { HOME_METADATA, ROUTE_METADATA } from "../src/routeMetadata.js";
 
-const origin = (process.env.SITE_URL || "https://kairven.github.io").replace(/\/+$/, "");
+const origin = (process.env.SITE_URL || "https://kairven.netlify.app").replace(/\/+$/, "");
 const outputDirectory = new URL("../dist/", import.meta.url);
 const routes = [["/", HOME_METADATA], ...Object.entries(ROUTE_METADATA)];
 const location = {
@@ -262,7 +262,7 @@ try {
     "</urlset>",
   ].join("\n");
   const llms = (await readFile(new URL("llms.txt", outputDirectory), "utf8"))
-    .replaceAll("https://kairven.github.io", origin);
+    .replaceAll("kairven.netlify.app", origin);
 
   await Promise.all([
     writeFile(new URL("robots.txt", outputDirectory), `${robots}\n`),
