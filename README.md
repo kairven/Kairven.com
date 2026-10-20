@@ -16,7 +16,7 @@ The development server uses port **5173** and the production preview uses **4173
 
 ## Production launch status: blocked
 
-This repository is not deployed. The canonical origin is `https://kairven.com`. Before launch, connect the domain to a selected production host and verify HTTPS, a permanent `www` to apex redirect, deep-link routing, the favicon, privacy and terms pages, the 404 page, sitemap and robots file.
+This repository is not deployed. The canonical origin is `https://kairven.netlify.app`. Before launch, connect the domain to a selected production host and verify HTTPS, a permanent `www` to apex redirect, deep-link routing, the favicon, privacy and terms pages, the 404 page, sitemap and robots file.
 
 The public `/_redirects` file contains the legacy `/privacy` redirect in Netlify format. Configure the equivalent permanent redirect if another host is selected. Host-level security headers, access/error logs, critical-failure alerts, backups and rollback also depend on the production provider, which is not specified here.
 
